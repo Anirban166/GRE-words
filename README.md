@@ -47,6 +47,8 @@ A list of GRE words I prepared based on some criteria to remember:
 - Run Down: Dilapidated
 - Lionize: Treat like a celebrity
 - Standing out in a negative way: Egregious
+- Separate: Discrete
+- Struggle: Flounder
 
 4) Time related:
 - Ancient: Primitive, Hoary
@@ -61,6 +63,8 @@ A list of GRE words I prepared based on some criteria to remember:
 - Clemency: Mercy
 - Palatable: Acceptable
 - Adjudicate - Judge
+- Extant - Existing
+- Verisimilitude - Very similar to reality
 
 6) Random:
 - Complex: Byzantine
@@ -77,7 +81,7 @@ A list of GRE words I prepared based on some criteria to remember:
 
 9) Sins: 
 - Pride: Hauteur & Vanity (both extreme)
-- Greed: Avaric
+- Greed: Avarice & Cupudity (both excessive)
 - Gluttony
   - V. Hungry: Ravenous, Voracious
 
