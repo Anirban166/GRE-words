@@ -49,6 +49,10 @@ A list of GRE words I prepared based on some criteria to remember:
 - Standing out in a negative way: Egregious
 - Separate: Discrete
 - Struggle: Flounder
+- Deny: Repudiate, Gainsay (speak against)
+- Subterfurge: Decieve, Hoodwink, Chicanery (trickery -> Artifice)
+- Defame: Vilify, Calumny 
+- Emphasize: Underscore
 
 4) Time related:
 - Ancient: Primitive, Hoary
@@ -69,6 +73,7 @@ A list of GRE words I prepared based on some criteria to remember:
 6) Random:
 - Complex: Byzantine
 - Discursive: Tangential
+- Long, Angry/pompous speech: Harangue, Tirade, Diatribe 
 
 7) Relating to:
 - Sartorial: Clothes
