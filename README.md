@@ -13,6 +13,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Wise: Sagacious
 - Honest: Aboveboard, Candid
 - Arrogant/Condescending: Supercilious, Haughty
+- Irritable: Grumpy, Bilious, Crotchety
 
 2) State:
 - Poor: Indigent, Penurious, Destitute, Impecunious, Necessitous (needy)
@@ -32,6 +33,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Scold: Upbraid, Chastise, Admonish (warn), Chide (applies to rebuke as well)
 - Disapprove: Reprimand, Reproach, Castigate (severely), Stigmatize, Condemn, Rebuke (also applies to severe criticism)
 - Criticize: Excoriate, Lambast (harshly), Arraign (find fault with), Censure, Condemn
+- Destroy/Eliminate completely: Obliterate, Exterminate, Extirpate, Expunge, Efface
 - Make someone less angry: Appease, Placate, Pacify, Mollify (soothe)
 - Make something better: Ameliorate
 - Make something worse: Exacerbate
@@ -76,12 +78,14 @@ A list of GRE words I prepared based on some criteria to remember:
 - Adjudicate - Judge
 - Extant - Existing
 - Apposite - Appropriate
-- Ignoble - Dishonorable
+- Dishonorable - Ignoble
+- Dispensation - Exemption
 - Verisimilitude - Very similar to reality
 
 6) Random:
 - Complex: Byzantine
 - Discursive: Tangential
+- Cadaverous: Corpse-like
 - Long, Angry/pompous speech: Harangue, Tirade, Diatribe 
 
 7) Relating to:
