@@ -8,7 +8,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Annoying: Nettlesome, to rile (annoy)
 - Rude: Insolent, Impudent/Impertinent (not showing respect)
 - Aggressive: Warlike, Bellicose
-- Intelligent/Clever: Scintillating (brilliant), Astute (accurately asses something)
+- Intelligent/Clever: Scintillating (brilliant), Astute (accurately assess something)
 - Sarcastic: Caustic
 - Wise: Sagacious
 - Honest: Aboveboard, Candid
@@ -65,10 +65,11 @@ A list of GRE words I prepared based on some criteria to remember:
 
 4) Time related:
 - Ancient: Primitive, Hoary
-- Short-lived/temporary: Ephemeral, Transitory/Transient
+- Short-lived/Temporary: Ephemeral, Transitory/Transient
+- Long-lasting/Permanent: Abiding, Peri, Enduring, Perennial
 - Occuring at irregular intervals of time: Sporadical
 - Lasting for an unknown period of time: Indefinite
-- Knowledge of events before time: Prescience, Foresight
+- Knowledge of events before time: Prescience, Foresight, Clairvoyance
 
 5) Word flow:
 - Efficaious: Effective
