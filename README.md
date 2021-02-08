@@ -64,7 +64,7 @@ A list of GRE words I prepared based on some criteria to remember:
 4) Time related:
 - Ancient: Primitive, Hoary
 - Short-lived/temporary: Ephemeral, Transitory/Transient
-- Occuring at irregular intervals of time: Sporadical (opp. Periodical, occuring at regular intervals)
+- Occuring at irregular intervals of time: Sporadical
 - Lasting for an unknown period of time: Indefinite
 - Knowledge of events before time: Prescience, Foresight
 
@@ -85,8 +85,8 @@ A list of GRE words I prepared based on some criteria to remember:
 - Long, Angry/pompous speech: Harangue, Tirade, Diatribe 
 
 7) Relating to:
-- Sartorial: Clothes
-- Aesthetics: Beauty
+- Clothes: Sartorial
+- Beauty: Aesthetics
 
 8) Person:
 - Raconteur: Storyteller
@@ -100,3 +100,5 @@ A list of GRE words I prepared based on some criteria to remember:
 - Greed: Avarice & Cupudity (both excessive)
 - Gluttony
   - V. Hungry: Ravenous, Voracious
+- Envy: Begrudge
+- Laziness: Sloth, Indolence
