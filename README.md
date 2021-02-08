@@ -53,6 +53,8 @@ A list of GRE words I prepared based on some criteria to remember:
 - Subterfurge: Decieve, Hoodwink, Chicanery (trickery -> Artifice)
 - Defame: Vilify, Calumny 
 - Emphasize: Underscore
+- Understood by a few: Arcane, Esoteric
+- Integrtiy: Probity, Cohesion (unified as a whole), Rectitude (Righteousness)
 
 4) Time related:
 - Ancient: Primitive, Hoary
