@@ -31,6 +31,7 @@ A list of GRE words I prepared based on some criteria to remember:
 3) General:
 - Scold: Upbraid, Chastise, Admonish (warn), Chide (applies to rebuke as well)
 - Disapprove: Reprimand, Reproach, Castigate (severely), Stigmatize, Condemn, Rebuke (also applies to severe criticism)
+- Criticize: Excoriate, Lambast (harshly), Arraign (find fault with), Censure, Condemn
 - Make someone less angry: Appease, Placate, Pacify, Mollify (soothe)
 - Make something better: Ameliorate
 - Make something worse: Exacerbate
@@ -53,13 +54,12 @@ A list of GRE words I prepared based on some criteria to remember:
 - Separate: Discrete
 - Struggle: Flounder
 - Deny: Repudiate, Gainsay (speak against)
-- Subterfurge: Decieve, Hoodwink, Chicanery (trickery -> Artifice)
+- Subterfurge: Decieve, Hoax, Hoodwink, Chicanery (trickery -> Artifice)
 - Defame: Vilify, Calumny 
 - Emphasize: Underscore
 - Understood by a few: Arcane, Esoteric
 - Integrtiy: Probity, Cohesion (unified as a whole), Rectitude (Righteousness)
 - Artifical: Factitious, Feigned (simulated)
-
 
 4) Time related:
 - Ancient: Primitive, Hoary
@@ -89,8 +89,10 @@ A list of GRE words I prepared based on some criteria to remember:
 - Aesthetics: Beauty
 
 8) Person:
+- Raconteur: Storyteller
 - Sycophant: Flatterer
 - Proponent: Supporter
+- Deceiving Cheater: Hustler, Swindler, Con Artist
 - Prodigy: Unusual/Extraordinary person (also applies to an event)
 
 9) Sins: 
