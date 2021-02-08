@@ -11,6 +11,8 @@ A list of GRE words I prepared based on some criteria to remember:
 - Intelligent/Clever: Scintillating (brilliant), Astute (accurately asses something)
 - Sarcastic: Caustic
 - Wise: Sagacious
+- Honest: Aboveboard, Candid
+- Arrogant/Condescending: Supercilious, Haughty
 
 2) State:
 - Poor: Indigent, Penurious, Destitute, Impecunious, Necessitous (needy)
@@ -24,6 +26,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Acerbic: Sharp and forthright
 - Respectable: Estimable, Eminent
 - Likeable: Affable
+- Unable to be calmed: Implacable
 
 3) General:
 - Scold: Upbraid, Chastise, Admonish (warn), Chide (applies to rebuke as well)
@@ -55,6 +58,8 @@ A list of GRE words I prepared based on some criteria to remember:
 - Emphasize: Underscore
 - Understood by a few: Arcane, Esoteric
 - Integrtiy: Probity, Cohesion (unified as a whole), Rectitude (Righteousness)
+- Artifical: Factitious, Feigned (simulated)
+
 
 4) Time related:
 - Ancient: Primitive, Hoary
@@ -70,6 +75,8 @@ A list of GRE words I prepared based on some criteria to remember:
 - Palatable: Acceptable
 - Adjudicate - Judge
 - Extant - Existing
+- Apposite - Appropriate
+- Ignoble - Dishonorable
 - Verisimilitude - Very similar to reality
 
 6) Random:
@@ -91,5 +98,3 @@ A list of GRE words I prepared based on some criteria to remember:
 - Greed: Avarice & Cupudity (both excessive)
 - Gluttony
   - V. Hungry: Ravenous, Voracious
-
-
