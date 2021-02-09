@@ -14,6 +14,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Honest: Aboveboard, Candid
 - Arrogant/Condescending: Supercilious, Haughty
 - Irritable: Grumpy, Bilious, Crotchety
+- Severe/Strict: Austere, Stern, Dour, Flinty
 
 2) State:
 - Poor: Indigent, Penurious, Destitute, Impecunious, Necessitous (needy)
@@ -29,6 +30,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Likeable: Affable
 - Unable to be calmed: Implacable
 - Being Late: Tardiness (opp. Punctuality)
+- Assigned a lower position: Relegate 
 
 3) General:
 - Scold: Upbraid, Chastise, Admonish (warn), Chide (applies to rebuke as well)
@@ -43,6 +45,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Persuade: Coax (opp. Dissuade)
 - Shorten: Truncate
 - Exclude: Ostracize
+- Unpredictable: Erratic
 - Refined: Genteel, Rarefied
 - Short Saying: Maxim, Dictum, Apothegm
 - Admiration: Infatuated (short-lived, but intense), Besotted
@@ -51,6 +54,8 @@ A list of GRE words I prepared based on some criteria to remember:
 - Dull: Humdrum (lacking excitement)
 - Unoriginal: Hackneyed, Trite (dull)
 - Emphasize: Underscore
+- Confine against will: Incarcerate, Immure
+- Accustomed: Attune, Acclimatize, Inure (harden against something by being accustomed)
 - Run Down: Dilapidated
 - Lionize: Treat like a celebrity
 - Standing out in a negative way: Egregious
@@ -63,6 +68,9 @@ A list of GRE words I prepared based on some criteria to remember:
 - Understood by a few: Arcane, Esoteric
 - Integrtiy: Probity, Cohesion (unified as a whole), Rectitude (Righteousness)
 - Artifical: Factitious, Feigned (simulated)
+- Silly/Pointless: Fatuous, Inane, Asinine (extremely foolish)
+- Childish: Puerile, Infantile
+- Lacking intelligence: Vacuous
 
 4) Time related:
 - Ancient: Primitive, Hoary
@@ -89,6 +97,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Discursive: Tangential
 - Cadaverous: Corpse-like
 - Long, Angry/pompous speech: Harangue, Tirade, Diatribe 
+- Largesse: Money/Gifts given generously
 
 7) Relating to:
 - Clothes: Sartorial
@@ -101,6 +110,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Proponent: Supporter
 - Deceiving Cheater: Hustler, Swindler, Con Artist
 - Prodigy: Unusual/Extraordinary person (also applies to an event)
+- Misanthropist: One who dislikes humankind & avoids human society
 
 9) Sins: 
 - Pride: Hauteur & Vanity (both extreme)
