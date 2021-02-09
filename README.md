@@ -2,7 +2,7 @@ A list of GRE words I prepared based on some criteria to remember:
 
 1) Characteristics:
 - Courageous: Mettlesome, Plucky, Intrepid (fearless), Audacious (bold, taking risks)
-- Shy: Timorous, Reticent
+- Shy: Timorous, Diffident (modest due to lack of self-confidence), Bashful (reluctant to draw attention to oneself)
 - Talkative: Garrulous, Loquacious, Verbose
 - Laconic: Crisp, Terse, Succinct, Brief/Concise with use of words while expressing oneself
 - Annoying: Nettlesome, to rile (annoy)
@@ -31,6 +31,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Unable to be calmed: Implacable
 - Being Late: Tardiness (opp. Punctuality)
 - Assigned a lower position: Relegate 
+- Not revealing one's thoughts readily: Reticent
 
 3) General:
 - Scold: Upbraid, Chastise, Admonish (warn), Chide (applies to rebuke as well)
@@ -71,6 +72,9 @@ A list of GRE words I prepared based on some criteria to remember:
 - Silly/Pointless: Fatuous, Inane, Asinine (extremely foolish)
 - Childish: Puerile, Infantile
 - Lacking intelligence: Vacuous
+- Provoking argument/conflict: Contentious, Controversial, Incendiary
+- Reluctant/Unwilling: Loath
+- Disgust: Detest, Loathe, Hatred
 
 4) Time related:
 - Ancient: Primitive, Hoary
