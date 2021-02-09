@@ -9,8 +9,8 @@ A list of GRE words I prepared based on some criteria to remember:
 - Rude: Insolent, Impudent/Impertinent (not showing respect)
 - Aggressive: Warlike, Bellicose
 - Intelligent/Clever: Scintillating (brilliant), Astute (accurately assess something)
-- Sarcastic: Caustic
-- Wise: Sagacious
+- Sarcastic: Caustic, Ironic, Satirical, Sardonic
+- Wise: Sagacious, Sapient
 - Honest: Aboveboard, Candid
 - Arrogant/Condescending: Supercilious, Haughty
 - Irritable: Grumpy, Bilious, Crotchety
@@ -49,6 +49,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Unpredictable: Erratic
 - Refined: Genteel, Rarefied
 - Short Saying: Maxim, Dictum, Apothegm
+- Insightful: Percipient/Perceptive, Perspicacious
 - Admiration: Infatuated (short-lived, but intense), Besotted
 - Harmful: Detrimental, Deleterious, Precarious (Dangerous)
 - Scheme: Ploy (clever one), Machinate, Gambit
