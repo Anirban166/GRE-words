@@ -28,6 +28,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Respectable: Estimable, Eminent
 - Likeable: Affable
 - Unable to be calmed: Implacable
+- Being Late: Tardiness (opp. Punctuality)
 
 3) General:
 - Scold: Upbraid, Chastise, Admonish (warn), Chide (applies to rebuke as well)
@@ -56,7 +57,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Separate: Discrete
 - Struggle: Flounder
 - Deny: Repudiate, Gainsay (speak against)
-- Subterfurge: Decieve, Hoax, Hoodwink, Chicanery (trickery -> Artifice)
+- Subterfurge: Decieve, Hoax, Hoodwink, Ruse, Chicanery (trickery -> Artifice)
 - Defame: Vilify, Calumny 
 - Emphasize: Underscore
 - Understood by a few: Arcane, Esoteric
@@ -95,6 +96,7 @@ A list of GRE words I prepared based on some criteria to remember:
 
 8) Person:
 - Raconteur: Storyteller
+- Mendicant: Beggar
 - Sycophant: Flatterer
 - Proponent: Supporter
 - Deceiving Cheater: Hustler, Swindler, Con Artist
