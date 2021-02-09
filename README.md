@@ -2,8 +2,8 @@ A list of GRE words I prepared based on some criteria to remember:
 
 1) Characteristics:
 - Courageous: Mettlesome, Plucky, Intrepid (fearless), Audacious (bold, taking risks)
-- Shy: Timorous, Diffident (modest due to lack of self-confidence), Bashful (reluctant to draw attention to oneself)
-- Talkative: Garrulous, Loquacious, Verbose
+- Shy: Timorous, Diffident (modest due to lack of self-confidence), Bashful (reluctant to draw attention to oneself) (Reticent fits a reserved person)
+- Talkative: Garrulous, Loquacious, Verbose (Gregariousness fits a talkative person)
 - Laconic: Crisp, Terse, Succinct, Brief/Concise with use of words while expressing oneself
 - Annoying: Nettlesome, to rile (annoy)
 - Rude: Insolent, Impudent/Impertinent (not showing respect)
@@ -15,6 +15,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Arrogant/Condescending: Supercilious, Haughty
 - Irritable: Grumpy, Bilious, Crotchety
 - Severe/Strict: Austere, Stern, Dour, Flinty
+- Cheerful: Ebullient, Jaunty, Exuberant, Buoyant (+optimistic)
 
 2) State:
 - Poor: Indigent, Penurious, Destitute, Impecunious, Necessitous (needy)
@@ -23,10 +24,11 @@ A list of GRE words I prepared based on some criteria to remember:
 - Regret: Remorse, Contrite
 - Sorrow: Elegiac, Mournful, Doleful
 - Peace: Serenity, Tranquility, Halycon
+- Happiness: Euphoria, Bliss, Exultant, Exhilaration, Jubilation, Joviality
 - Harmless: Innocous, Benign (also means generous)
 - Generous: Munificent, Magnanimous (+ forgiving)
 - Acerbic: Sharp and forthright
-- Respectable: Estimable, Eminent
+- Respectable: Estimable, Eminent, Illustrious (well-known)
 - Likeable: Affable
 - Unable to be calmed: Implacable
 - Being Late: Tardiness (opp. Punctuality)
@@ -50,6 +52,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Refined: Genteel, Rarefied
 - Short Saying: Maxim, Dictum, Apothegm
 - Insightful: Percipient/Perceptive, Perspicacious
+- Peculiarity: Idiosyncrasy, Eccentricity, Unorthodox (Unconventional, contrary to what is usual)
 - Admiration: Infatuated (short-lived, but intense), Besotted
 - Harmful: Detrimental, Deleterious, Precarious (Dangerous)
 - Scheme: Ploy (clever one), Machinate, Gambit
