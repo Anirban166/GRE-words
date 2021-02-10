@@ -38,13 +38,14 @@ A list of GRE words I prepared based on some criteria to remember:
 3) General:
 - Scold: Upbraid, Chastise, Admonish (warn), Chide (applies to rebuke as well)
 - Disapprove: Reprimand, Reproach, Castigate (severely), Stigmatize, Condemn, Rebuke (also applies to severe criticism)
-- Criticize: Excoriate, Lambast (harshly), Arraign (find fault with), Censure, Condemn
-- Destroy/Eliminate completely: Obliterate, Exterminate, Extirpate, Expunge, Efface
-- Make someone less angry: Appease, Placate, Pacify, Mollify (soothe)
+- Criticize: Excoriate, Lambast (harshly), Arraign (find fault with), Censure, Condemn, Abase (humiliate, lower)
+- Destroy/Eliminate completely: Obliterate, Exterminate, Extirpate, Expunge, Efface, Scotched (decisively put an end to)
+- Make someone less angry: Appease, Placate, Pacify, Mollify (soothe), Conciliatory
 - Make something better: Ameliorate
 - Make something worse: Exacerbate
 - Support: Bolster, Advocate
 - Object: Demur
+- Avoid: Eschew
 - Persuade: Coax (opp. Dissuade)
 - Shorten: Truncate
 - Exclude: Ostracize
@@ -72,14 +73,14 @@ A list of GRE words I prepared based on some criteria to remember:
 - Defame: Vilify, Calumny 
 - Emphasize: Underscore
 - Understood by a few: Arcane, Esoteric
-- Integrtiy: Probity, Cohesion (unified as a whole), Rectitude (Righteousness)
+- Unified as a whole: Cohesion
 - Artifical: Factitious, Feigned (simulated)
-- Silly/Pointless: Fatuous, Inane, Asinine (extremely foolish)
+- Silly/Pointless: Fatuous, Inane, Asinine (extremely foolish), Nugatory (useless, futile)
 - Childish: Puerile, Infantile
 - Lacking intelligence: Vacuous
 - Provoking argument/conflict: Contentious, Controversial, Incendiary
 - Reluctant/Unwilling: Loath
-- Disgust: Detest, Loathe, Hatred
+- Disgust: Detest, Loathe, Hatred, Abhor
 - Quixotic: Unrealistic, Impractical
 - Rejection: Abnegation
 - Hard to comprehend: Recondite
@@ -100,12 +101,14 @@ A list of GRE words I prepared based on some criteria to remember:
 - Blusquely: Bluntly
 - Clemency: Mercy
 - Palatable: Acceptable
-- Adjudicate - Judge
-- Extant - Existing
-- Apposite - Appropriate
-- Dishonorable - Ignoble
-- Dispensation - Exemption
-- Verisimilitude - Very similar to reality
+- Integrity: Probity
+- Adjudicate: Judge
+- Extant: Existing
+- Apposite: Appropriate
+- Dishonorable: Ignoble
+- Righteousness: Rectitude 
+- Dispensation: Exemption
+- Verisimilitude: Very similar to reality
 
 6) Random:
 - Complex: Byzantine
