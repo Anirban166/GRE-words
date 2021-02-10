@@ -67,7 +67,8 @@ A list of GRE words I prepared based on some criteria to remember:
 - Separate: Discrete
 - Struggle: Flounder
 - Deny: Repudiate, Gainsay (speak against)
-- Subterfurge: Decieve, Hoax, Hoodwink, Ruse, Chicanery (trickery -> Artifice)
+- Subterfurge: Decieve, Hoax, Hoodwink, Ruse, Chicanery (trickery -> Artifice), Duplicity
+- Lie: Prevaricate, 
 - Defame: Vilify, Calumny 
 - Emphasize: Underscore
 - Understood by a few: Arcane, Esoteric
@@ -79,12 +80,14 @@ A list of GRE words I prepared based on some criteria to remember:
 - Provoking argument/conflict: Contentious, Controversial, Incendiary
 - Reluctant/Unwilling: Loath
 - Disgust: Detest, Loathe, Hatred
+- Quixotic: Unrealistic, Impractical
 
 4) Time related:
 - Ancient: Primitive, Hoary
 - Short-lived/Temporary: Ephemeral, Transitory/Transient
 - Long-lasting/Permanent: Abiding, Peri, Enduring, Perennial
 - Occuring at irregular intervals of time: Sporadical
+- Occuring everyday: Quotidian, Commonplace (ordinary)
 - Lasting for an unknown period of time: Indefinite
 - Knowledge of events before time: Prescience, Foresight, Clairvoyance
 
