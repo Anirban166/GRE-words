@@ -5,7 +5,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Shy: Timorous, Diffident (modest due to lack of self-confidence), Bashful (reluctant to draw attention to oneself) (Reticent fits a reserved person)
 - Talkative: Garrulous, Loquacious, Verbose (Gregariousness fits a talkative person)
 - Laconic: Crisp, Terse, Succinct, Brief/Concise with use of words while expressing oneself
-- Annoying: Nettlesome, to rile (annoy)
+- Annoying: Nettlesome, to rile, irk or peeve (annoy)
 - Rude: Insolent, Impudent/Impertinent (not showing respect)
 - Aggressive: Warlike, Bellicose
 - Intelligent/Clever: Scintillating (brilliant), Astute (accurately assess something)
@@ -24,6 +24,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Regret: Remorse, Contrite
 - Sorrow: Elegiac, Mournful, Doleful
 - Peace: Serenity, Tranquility, Halycon
+- Calmness & Composure: Equanimity
 - Happiness: Euphoria, Bliss, Exultant, Exhilaration, Jubilation, Joviality
 - Harmless: Innocous, Benign (also means generous)
 - Generous: Munificent, Magnanimous (+ forgiving)
@@ -86,6 +87,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Hard to comprehend: Recondite
 - Excessively concerned with minor details: Pedantic
 - Giving a false representation: Disingenuous
+- Describe/Display precisely: Delineate
 
 4) Time related:
 - Ancient: Primitive, Hoary
@@ -111,7 +113,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Verisimilitude: Very similar to reality
 
 6) Random:
-- Complex: Byzantine
+- Complex: Byzantine, Convoluted
 - Discursive: Tangential
 - Cadaverous: Corpse-like
 - Long, Angry/pompous speech: Harangue, Tirade, Diatribe 
