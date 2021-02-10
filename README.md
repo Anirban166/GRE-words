@@ -29,7 +29,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Harmless: Innocous, Benign (also means generous)
 - Generous: Munificent, Magnanimous (+ forgiving)
 - Acerbic: Sharp and forthright
-- Respectable: Estimable, Eminent, Illustrious (well-known)
+- Respectable: Estimable, Eminent, Illustrious (well-known), Venerable
 - Likeable: Affable
 - Unable to be calmed: Implacable
 - Being Late: Tardiness (opp. Punctuality)
@@ -41,7 +41,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Disapprove: Reprimand, Reproach, Castigate (severely), Stigmatize, Condemn, Rebuke (also applies to severe criticism)
 - Criticize: Excoriate, Lambast (harshly), Arraign (find fault with), Censure, Condemn, Abase (humiliate, lower)
 - Destroy/Eliminate completely: Obliterate, Exterminate, Extirpate, Expunge, Efface, Scotched (decisively put an end to)
-- Make someone less angry: Appease, Placate, Pacify, Mollify (soothe), Conciliatory
+- Make someone less angry: Appease, Placate, Pacify, Mollify (soothe), Conciliate, Bromide (statement intended to sooth)
 - Make something better: Ameliorate
 - Make something worse: Exacerbate
 - Support: Bolster, Advocate
@@ -131,6 +131,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Deceiving Cheater: Hustler, Swindler, Con Artist
 - Prodigy: Unusual/Extraordinary person (also applies to an event)
 - Misanthropist: One who dislikes humankind & avoids human society
+- Vassal: A holder of land by feudal tenure on conditions of homage and allegiance
 
 9) Sins: 
 - Pride: Hauteur & Vanity (both extreme)
