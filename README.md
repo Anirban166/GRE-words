@@ -19,6 +19,7 @@ A list of GRE words I prepared based on some criteria to remember:
 
 2) State:
 - Poor: Indigent, Penurious, Destitute, Impecunious, Necessitous (needy)
+- Wealthy: Opulent, Affluent, Lavish (luxurious)
 - Inexperienced: Callow, Fledgeling
 - Versatile: Protean
 - Regret: Remorse, Contrite
@@ -42,7 +43,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Criticize: Excoriate, Lambast (harshly), Arraign (find fault with), Censure, Condemn, Abase (humiliate, lower)
 - Destroy/Eliminate completely: Obliterate, Exterminate, Extirpate, Expunge, Efface, Scotched (decisively put an end to)
 - Make someone less angry: Appease, Placate, Pacify, Mollify (soothe), Conciliate, Bromide (statement intended to sooth)
-- Make something better: Ameliorate
+- Make something better: Ameliorate, Mitigate (make less severe)
 - Make something worse: Exacerbate
 - Support: Bolster, Advocate
 - Object: Demur
