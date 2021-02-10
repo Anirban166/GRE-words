@@ -81,6 +81,10 @@ A list of GRE words I prepared based on some criteria to remember:
 - Reluctant/Unwilling: Loath
 - Disgust: Detest, Loathe, Hatred
 - Quixotic: Unrealistic, Impractical
+- Rejection: Abnegation
+- Hard to comprehend: Recondite
+- Excessively concerned with minor details: Pedantic
+- Giving a false representation: Disingenuous
 
 4) Time related:
 - Ancient: Primitive, Hoary
