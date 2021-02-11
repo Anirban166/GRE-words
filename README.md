@@ -3,9 +3,9 @@ A list of GRE words I prepared based on some criteria to remember:
 1) Characteristics:
 - Courageous: Mettlesome, Plucky, Intrepid (fearless, opp. pusillanimous), Audacious (bold, taking risks)
 - Shy: Timorous, Diffident (modest due to lack of self-confidence), Bashful (reluctant to draw attention to oneself) (Reticent fits a reserved person)
-- Talkative: Garrulous, Loquacious, Verbose (Gregariousness fits a talkative person)
+- Talkative: Garrulous, Loquacious, Verbose (Gregariousness/Sociable fits a talkative person)
 - Laconic: Crisp, Terse, Succinct, Brief/Concise with use of words while expressing oneself (might be reticent, bit secretive but not completely taciturn/quiet)
-- Annoying: Nettlesome, Fractious, Irksome, to irk, rile or peeve (annoy)
+- Annoying: Nettlesome, Fractious, Irksome, Peevish, or to irk/peeve/rile (annoy)
 - Rude: Insolent, Impudent/Impertinent (not showing respect)
 - Aggressive: Warlike, Bellicose, Belligerent
 - Intelligent/Clever: Scintillating (brilliant), Astute (accurately assess something)
