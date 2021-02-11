@@ -39,7 +39,8 @@ A list of GRE words I prepared based on some criteria to remember:
 - Peculiar: Idiosyncratic, Eccentric, Freakish (strange)
 
 3) General:
-- Scold: Upbraid, Chastise, Admonish (warn), Chide (applies to rebuke as well)
+- Scold: Upbraid, Chastise, Admonish (warn), Chide (applies to rebuke as well), Inveigh
+- Flattery: Inveigle (persuade/coax them to do something via flattery, opp. dissuade)
 - Disapprove: Reprimand, Reproach, Castigate (severely), Stigmatize, Condemn, Rebuke (also applies to severe criticism)
 - Criticize: Excoriate, Lambast (harshly), Arraign (find fault with), Censure, Condemn, Abase (humiliate, lower)
 - Destroy/Eliminate completely: Obliterate, Exterminate, Extirpate, Expunge, Efface, Scotched (decisively put an end to)
@@ -49,7 +50,6 @@ A list of GRE words I prepared based on some criteria to remember:
 - Support: Bolster, Advocate
 - Object: Demur
 - Avoid: Eschew
-- Persuade: Coax (opp. Dissuade)
 - Shorten: Truncate
 - Exclude: Ostracize
 - Unpredictable: Erratic
@@ -91,6 +91,9 @@ A list of GRE words I prepared based on some criteria to remember:
 - Excessively concerned with minor details: Pedantic
 - Giving a false representation: Disingenuous
 - Describe/Display precisely: Delineate
+- Refuse to change own's opinion: Dogmatic (highly opinionated), Obdurate (Stubborn)
+- Acting without care: Prudent, Impetous
+- Abundant/Present in Large Quantity: Prolific, Copious
 
 4) Time related:
 - Ancient: Primitive, Hoary
