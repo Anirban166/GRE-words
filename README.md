@@ -51,11 +51,10 @@ A list of GRE words I prepared based on some criteria to remember:
 - Make someone less angry: Appease, Placate, Pacify, Mollify (soothe), Conciliate, Bromide (statement intended to sooth)
 - Make something better: Ameliorate, Mitigate (make less severe)
 - Make something worse: Exacerbate
-- Lacking confidence: Diffidence
 - Support: Bolster, Advocate
 - Object: Demur
 - Avoid: Eschew
-- Weaken: Enervate
+- Weaken: Enfeeble, Enervate (sap energy), Incapacitate (prevent from functioning)
 - Blame: Inculpate (opp. Exculpate - prove not guilty)
 - Shorten: Truncate
 - Exclude: Ostracize
@@ -81,10 +80,9 @@ A list of GRE words I prepared based on some criteria to remember:
 - Struggle: Flounder
 - Deny: Repudiate, Gainsay (speak against)
 - Subterfurge: Decieve, Hoax, Hoodwink, Ruse, Chicanery (trickery -> Artifice), Duplicity
-- Lie: Prevaricate, 
+- Lie: Fib, Prevaricate, even Palter and Equivocate (speak vaguely so as to avoid the truth)
 - Defame: Vilify, Calumny 
 - Emphasize: Underscore
-- Understood by a few: Arcane, Esoteric
 - Unified as a whole: Cohesion
 - Artifical: Factitious, Feigned (simulated)
 - Silly/Pointless: Fatuous, Inane, Asinine (extremely foolish), Nugatory (useless, futile)
@@ -129,14 +127,15 @@ A list of GRE words I prepared based on some criteria to remember:
 
 6) Random:
 - Enigma: Mysterious (difficult to interpret)
+- Understood by a few (analogous to mysterious): Arcane, Esoteric
 - Luck: Serendipity, Providential
 - Complex: Byzantine, Convoluted
 - Discursive: Tangential
 - Cadaverous: Corpse-like
-- Long, Angry/pompous speech: Harangue, Tirade, Diatribe 
+- Inducing drowsiness: Soporific
 - Largesse: Money/Gifts given generously
 - Eulogy: Praise someone in their rememberance
-- Inducing drowsiness: Soporific
+- Long, Angry/pompous speech: Harangue, Tirade, Diatribe 
 
 7) Relating to:
 - Clothes: Sartorial
