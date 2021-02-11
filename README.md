@@ -51,7 +51,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Support: Bolster, Advocate
 - Object: Demur
 - Avoid: Eschew
-- Blame: Inculpate
+- Blame: Inculpate (opp. Exculpate - prove not guilty)
 - Shorten: Truncate
 - Exclude: Ostracize
 - Unpredictable: Erratic
