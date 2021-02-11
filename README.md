@@ -29,6 +29,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Happiness: Euphoria, Bliss, Exultant, Exhilaration, Jubilation, Joviality
 - Harmless: Innocous, Benign (also means generous)
 - Generous: Munificent, Magnanimous (+ forgiving)
+- Docile: Compliant, Pliant, Submissive, Yielding
 - Acerbic: Sharp and forthright
 - Respectable: Estimable, Eminent, Illustrious (well-known), Venerable
 - Likeable: Affable
@@ -41,7 +42,7 @@ A list of GRE words I prepared based on some criteria to remember:
 3) General:
 - Scold: Upbraid, Chastise, Admonish (warn), Chide (applies to rebuke as well), Inveigh
 - Flattery: Inveigle (persuade/coax them to do something via flattery, opp. dissuade)
-- Disapprove: Reprimand, Reproach, Castigate (severely), Stigmatize, Condemn, Rebuke (also applies to severe criticism)
+- Disapprove: Reprimand, Reproach, Castigate (severely), Stigmatize, Condemn, Rebuke (also applies to severe criticism), Dissonance (disagreement)
 - Criticize: Excoriate, Lambast (harshly), Arraign (find fault with), Censure, Condemn, Abase (humiliate, lower)
 - Destroy/Eliminate completely: Obliterate, Exterminate, Extirpate, Expunge, Efface, Scotched (decisively put an end to)
 - Make someone less angry: Appease, Placate, Pacify, Mollify (soothe), Conciliate, Bromide (statement intended to sooth)
@@ -50,6 +51,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Support: Bolster, Advocate
 - Object: Demur
 - Avoid: Eschew
+- Blame: Inculpate
 - Shorten: Truncate
 - Exclude: Ostracize
 - Unpredictable: Erratic
