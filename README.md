@@ -15,7 +15,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Arrogant/Condescending: Supercilious, Haughty
 - Irritable: Grumpy, Bilious, Crotchety
 - Severe/Strict: Austere, Stern, Dour, Flinty
-- Cheerful: Ebullient, Jaunty, Exuberant, Buoyant (+optimistic)
+- Cheerful: Ebullient, Jaunty, Exuberant, Buoyant (+optimistic/sanguine)
 
 2) State:
 - Poor: Indigent, Penurious, Destitute, Impecunious, Necessitous (needy)
@@ -38,6 +38,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Assigned a lower position: Relegate 
 - Not revealing one's thoughts readily: Reticent
 - Peculiar: Idiosyncratic, Eccentric, Freakish (strange)
+- Diligent/Careful: Meticulous, Scrupulous
 
 3) General:
 - Scold: Upbraid, Chastise, Admonish (warn), Chide (applies to rebuke as well), Inveigh
@@ -56,7 +57,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Shorten: Truncate
 - Exclude: Ostracize
 - Unpredictable: Erratic
-- Educational: Didactic, Pedagogic
+- Educational: Didactic, Pedagogic, Erudite (well-educated/informed)
 - Refined: Genteel, Rarefied
 - Short Saying: Maxim, Dictum, Apothegm
 - Insightful: Percipient/Perceptive, Perspicacious
@@ -100,6 +101,7 @@ A list of GRE words I prepared based on some criteria to remember:
 
 4) Time related:
 - Ancient: Primitive, Hoary
+- Belonging to another time/era: Anachronism (chronos: time)
 - Short-lived/Temporary: Ephemeral, Transitory/Transient
 - Long-lasting/Permanent: Abiding, Peri, Enduring, Perennial
 - Occuring at irregular intervals of time: Sporadical
