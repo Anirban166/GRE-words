@@ -43,7 +43,7 @@ A list of GRE words I prepared based on some criteria to remember:
 
 3) General:
 - Scold: Upbraid, Chastise, Vituperate, Inveigh, Admonish (warn), Chide (applies to rebuke as well)
-- Flattery: Inveigle (persuade/coax them to do something via flattery, opp. dissuade)
+- Inveigle: Coax/Persuade (opp. dissuade) someone to do something via flattery/blandishments
 - Disapprove: Reprimand, Reproach, Castigate (severely), Stigmatize, Condemn, Rebuke (also applies to severe criticism), Dissonance (disagreement, opp. genial)
 - Criticize: Excoriate, Lambast (harshly), Arraign (find fault with), Censure, Condemn, Abase (humiliate, lower), Denigrate (criticize unfairly), Deride (insult)
 - Destroy/Eliminate completely: Obliterate, Exterminate, Extirpate, Expunge, Efface, Scotched (decisively put an end to)
