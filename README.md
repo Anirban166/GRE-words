@@ -4,7 +4,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Courageous: Mettlesome, Plucky, Intrepid (fearless), Audacious (bold, taking risks)
 - Shy: Timorous, Diffident (modest due to lack of self-confidence), Bashful (reluctant to draw attention to oneself) (Reticent fits a reserved person)
 - Talkative: Garrulous, Loquacious, Verbose (Gregariousness fits a talkative person)
-- Laconic: Crisp, Terse, Succinct, Brief/Concise with use of words while expressing oneself
+- Laconic: Crisp, Terse, Succinct, Brief/Concise with use of words while expressing oneself (might be reticent, bit secretive but not completely taciturn/quiet)
 - Annoying: Nettlesome, Fractious, Irksome, to irk, rile or peeve (annoy)
 - Rude: Insolent, Impudent/Impertinent (not showing respect)
 - Aggressive: Warlike, Bellicose, Belligerent
@@ -39,6 +39,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Not revealing one's thoughts readily: Reticent
 - Peculiar: Idiosyncratic, Eccentric, Freakish (strange)
 - Diligent/Careful: Meticulous, Scrupulous
+- Disorder: Tumult/Tumultous
 
 3) General:
 - Scold: Upbraid, Chastise, Admonish (warn), Chide (applies to rebuke as well), Inveigh
@@ -46,6 +47,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Disapprove: Reprimand, Reproach, Castigate (severely), Stigmatize, Condemn, Rebuke (also applies to severe criticism), Dissonance (disagreement)
 - Criticize: Excoriate, Lambast (harshly), Arraign (find fault with), Censure, Condemn, Abase (humiliate, lower)
 - Destroy/Eliminate completely: Obliterate, Exterminate, Extirpate, Expunge, Efface, Scotched (decisively put an end to)
+- Passionate/Enthusiastic: Ardent, Fervid/Fervent, Vehement (feeling)
 - Make someone less angry: Appease, Placate, Pacify, Mollify (soothe), Conciliate, Bromide (statement intended to sooth)
 - Make something better: Ameliorate, Mitigate (make less severe)
 - Make something worse: Exacerbate
@@ -53,6 +55,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Support: Bolster, Advocate
 - Object: Demur
 - Avoid: Eschew
+- Weaken: Enervate
 - Blame: Inculpate (opp. Exculpate - prove not guilty)
 - Shorten: Truncate
 - Exclude: Ostracize
@@ -132,6 +135,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Long, Angry/pompous speech: Harangue, Tirade, Diatribe 
 - Largesse: Money/Gifts given generously
 - Eulogy: Praise someone in their rememberance
+- Inducing drowsiness: Soporific
 
 7) Relating to:
 - Clothes: Sartorial
