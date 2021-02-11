@@ -29,7 +29,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Happiness: Euphoria, Bliss, Exultant, Exhilaration, Jubilation, Joviality
 - Harmless: Innocous, Benign (also means generous)
 - Generous: Munificent, Magnanimous (+ forgiving)
-- Docile: Compliant, Pliant, Submissive, Yielding
+- Docile: Compliant, Pliant, Submissive, Yielding, Obeyance (opp. Recalcritant)
 - Acerbic: Sharp and forthright
 - Respectable: Estimable, Eminent, Illustrious (well-known), Venerable
 - Likeable: Affable
@@ -38,7 +38,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Assigned a lower position: Relegate 
 - Not revealing one's thoughts readily: Reticent
 - Peculiar: Idiosyncratic, Eccentric, Freakish (strange)
-- Diligent/Careful: Meticulous, Scrupulous
+- Diligent/Careful: Meticulous, Scrupulous, Fastidious
 - Disorder: Tumult/Tumultous
 
 3) General:
@@ -63,10 +63,11 @@ A list of GRE words I prepared based on some criteria to remember:
 - Educational: Didactic, Pedagogic, Erudite (well-educated/informed)
 - Refined: Genteel, Rarefied
 - Short Saying: Maxim, Dictum, Apothegm
+- Unecessary: Redundant, Superfluous
 - Insightful: Percipient/Perceptive, Perspicacious
 - Peculiarity: Idiosyncrasy, Eccentricity, Unorthodox (Unconventional, contrary to what is usual)
 - Admiration: Infatuated (short-lived, but intense), Besotted
-- Harmful: Detrimental, Deleterious, Precarious (Dangerous)
+- Harmful: Detrimental, Deleterious, Precarious (Dangerous), Inimical (tending to obstruct/harm)
 - Scheme: Ploy (clever one), Machinate, Gambit
 - Dull: Humdrum (lacking excitement)
 - Unoriginal: Hackneyed, Trite (dull)
