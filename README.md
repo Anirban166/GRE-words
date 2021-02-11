@@ -5,9 +5,9 @@ A list of GRE words I prepared based on some criteria to remember:
 - Shy: Timorous, Diffident (modest due to lack of self-confidence), Bashful (reluctant to draw attention to oneself) (Reticent fits a reserved person)
 - Talkative: Garrulous, Loquacious, Verbose (Gregariousness fits a talkative person)
 - Laconic: Crisp, Terse, Succinct, Brief/Concise with use of words while expressing oneself
-- Annoying: Nettlesome, to rile, irk or peeve (annoy)
+- Annoying: Nettlesome, Fractious, Irksome, to irk, rile or peeve (annoy)
 - Rude: Insolent, Impudent/Impertinent (not showing respect)
-- Aggressive: Warlike, Bellicose
+- Aggressive: Warlike, Bellicose, Belligerent
 - Intelligent/Clever: Scintillating (brilliant), Astute (accurately assess something)
 - Sarcastic: Caustic, Ironic, Satirical, Sardonic
 - Wise: Sagacious, Sapient
@@ -48,6 +48,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Make someone less angry: Appease, Placate, Pacify, Mollify (soothe), Conciliate, Bromide (statement intended to sooth)
 - Make something better: Ameliorate, Mitigate (make less severe)
 - Make something worse: Exacerbate
+- Lacking confidence: Diffidence
 - Support: Bolster, Advocate
 - Object: Demur
 - Avoid: Eschew
@@ -122,11 +123,13 @@ A list of GRE words I prepared based on some criteria to remember:
 - Verisimilitude: Very similar to reality
 
 6) Random:
+- Luck: Serendipity, Providential
 - Complex: Byzantine, Convoluted
 - Discursive: Tangential
 - Cadaverous: Corpse-like
 - Long, Angry/pompous speech: Harangue, Tirade, Diatribe 
 - Largesse: Money/Gifts given generously
+- Eulogy: Praise someone in their rememberance
 
 7) Relating to:
 - Clothes: Sartorial
