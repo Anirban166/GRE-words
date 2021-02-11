@@ -62,6 +62,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Unpredictable: Erratic
 - Educational: Didactic, Pedagogic, Erudite (well-educated/informed)
 - Refined: Genteel, Rarefied
+- Hatred: Antipathy, Loathe, Abhorrence
 - Hasty: Expeditious, Cursory (not detailed due to hastiness)
 - Perfunctory: Done without care/interest
 - Rash: Reckless, Foolhardy
