@@ -31,13 +31,12 @@ A list of GRE words I prepared based on some criteria to remember:
 - Generous: Munificent, Magnanimous (+ forgiving)
 - Docile: Compliant, Pliant, Submissive, Yielding, Obeyance (opp. Recalcritant)
 - Acerbic: Sharp and forthright
-- Respectable: Estimable, Eminent, Illustrious (well-known), Venerable
+- Respectable: Estimable, Eminent, Illustrious (well-known), Venerable (opp. Derogatory)
 - Likeable: Affable
 - Unable to be calmed: Implacable
 - Being Late: Tardiness (opp. Punctuality)
 - Assigned a lower position: Relegate 
 - Not revealing one's thoughts readily: Reticent
-- Peculiar: Idiosyncratic, Eccentric, Freakish (strange)
 - Diligent/Careful: Meticulous, Scrupulous, Fastidious
 - Disorder: Tumult/Tumultous
 
@@ -55,7 +54,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Object: Demur
 - Avoid: Eschew
 - Weaken: Enfeeble, Enervate (sap energy), Incapacitate (prevent from functioning)
-- Blame: Inculpate (opp. Exculpate - prove not guilty)
+- Blame: Inculpate (opp. Exculpate - prove not guilty), Indict (accuse formally)
 - Shorten: Truncate
 - Exclude: Ostracize
 - Unpredictable: Erratic
@@ -64,7 +63,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Short Saying: Maxim, Dictum, Apothegm
 - Unecessary: Redundant, Superfluous
 - Insightful: Percipient/Perceptive, Perspicacious
-- Peculiarity: Idiosyncrasy, Eccentricity, Unorthodox (Unconventional, contrary to what is usual)
+- Peculiarity: Idiosyncrasy, Eccentricity, Unorthodox (Unconventional, contrary to what is usual), Freakish (strange)
 - Admiration: Infatuated (short-lived, but intense), Besotted
 - Harmful: Detrimental, Deleterious, Precarious (Dangerous), Inimical (tending to obstruct/harm)
 - Scheme: Ploy (clever one), Machinate, Gambit
@@ -146,9 +145,12 @@ A list of GRE words I prepared based on some criteria to remember:
 - Mendicant: Beggar
 - Sycophant: Flatterer
 - Proponent: Supporter
+- Disciplinarian: Maritnet
+- Grumpy/Grouch: Curmudgeon
 - Deceiving Cheater: Hustler, Swindler, Con Artist
 - Pedant: One who overemphasizes minor rules/details
 - Prodigy: Unusual/Extraordinary person (also applies to an event)
+- Philistine: One who is hostile/indifferent to culture
 - Misanthropist: One who dislikes humankind & avoids human society
 - Vassal: A holder of land by feudal tenure on conditions of homage and allegiance
 
