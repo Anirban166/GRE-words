@@ -1,7 +1,7 @@
 A list of GRE words I prepared based on some criteria to remember:
 
 1) Characteristics:
-- Courageous: Mettlesome, Plucky, Intrepid (fearless), Audacious (bold, taking risks)
+- Courageous: Mettlesome, Plucky, Intrepid (fearless, opp. pusillanimous), Audacious (bold, taking risks)
 - Shy: Timorous, Diffident (modest due to lack of self-confidence), Bashful (reluctant to draw attention to oneself) (Reticent fits a reserved person)
 - Talkative: Garrulous, Loquacious, Verbose (Gregariousness fits a talkative person)
 - Laconic: Crisp, Terse, Succinct, Brief/Concise with use of words while expressing oneself (might be reticent, bit secretive but not completely taciturn/quiet)
@@ -121,7 +121,6 @@ A list of GRE words I prepared based on some criteria to remember:
 - Palatable: Acceptable
 - Integrity: Probity
 - Adjudicate: Judge
-- Extant: Existing
 - Apposite: Appropriate
 - Dishonorable: Ignoble
 - Righteousness: Rectitude 
@@ -129,6 +128,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Verisimilitude: Very similar to reality
 
 6) Random:
+- Enigma: Mysterious (difficult to interpret)
 - Luck: Serendipity, Providential
 - Complex: Byzantine, Convoluted
 - Discursive: Tangential
@@ -148,6 +148,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Sycophant: Flatterer
 - Proponent: Supporter
 - Deceiving Cheater: Hustler, Swindler, Con Artist
+- Pedant: One who overemphasizes minor rules/details
 - Prodigy: Unusual/Extraordinary person (also applies to an event)
 - Misanthropist: One who dislikes humankind & avoids human society
 - Vassal: A holder of land by feudal tenure on conditions of homage and allegiance
