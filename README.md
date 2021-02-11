@@ -74,7 +74,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Scheme: Ploy (clever one), Machinate, Gambit
 - Dull: Humdrum (lacking excitement)
 - Unoriginal: Hackneyed, Trite (dull)
-- Emphasize: Underscore
+- Emphasize: Underscore, Accent
 - Confine against will: Incarcerate, Immure
 - Accustomed: Attune, Acclimatize, Inure (harden against something by being accustomed)
 - Run Down: Dilapidated
@@ -96,7 +96,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Reluctant/Unwilling: Loath
 - Disgust: Detest, Loathe, Hatred, Abhor
 - Quixotic: Unrealistic, Impractical
-- Rejection: Abnegation
+- Reject: Abnegate, Spurn (reject with contempt or disdain - feeling that someone is unworthy)
 - Hard to comprehend: Recondite
 - Excessively concerned with minor details: Pedantic
 - Giving a false representation: Disingenuous
@@ -166,8 +166,8 @@ A list of GRE words I prepared based on some criteria to remember:
 
 9) Sins: 
 - Pride: Hauteur & Vanity (both extreme)
-- Greed: Avarice & Cupudity (both excessive)
+- Greed: Avarice & Cupidity (both excessive)
 - Gluttony
-  - V. Hungry: Ravenous, Voracious
+  - Extremely hungry: Ravenous, Voracious
 - Envy: Begrudge
 - Laziness: Sloth, Indolence
