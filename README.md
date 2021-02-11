@@ -149,6 +149,8 @@ A list of GRE words I prepared based on some criteria to remember:
 7) Relating to:
 - Clothes: Sartorial
 - Beauty: Aesthetics
+- Words/Vocabulary: Lexical
+- Logic in a language: Semantics (yes, compiler design)
 
 8) Person:
 - Raconteur: Storyteller
@@ -173,4 +175,4 @@ A list of GRE words I prepared based on some criteria to remember:
 - Envy: Begrudge
 - Laziness: Sloth, Indolence
 - Lust: Concupiscience, Lechery (offensive)
-- Wrath: Outrage, Fury from ire/spleen/anger
+- Wrath: Outrage, Fury, Destruction from ire/spleen/anger
