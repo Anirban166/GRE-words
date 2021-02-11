@@ -39,11 +39,12 @@ A list of GRE words I prepared based on some criteria to remember:
 - Not revealing one's thoughts readily: Reticent
 - Diligent/Careful: Meticulous, Scrupulous, Fastidious
 - Disorder: Tumult/Tumultous
+- Dissapointment: Crestfallen, Sullen, Bereft (sad due to loss)
 
 3) General:
-- Scold: Upbraid, Chastise, Admonish (warn), Chide (applies to rebuke as well), Inveigh
+- Scold: Upbraid, Chastise, Vituperate, Inveigh, Admonish (warn), Chide (applies to rebuke as well)
 - Flattery: Inveigle (persuade/coax them to do something via flattery, opp. dissuade)
-- Disapprove: Reprimand, Reproach, Castigate (severely), Stigmatize, Condemn, Rebuke (also applies to severe criticism), Dissonance (disagreement)
+- Disapprove: Reprimand, Reproach, Castigate (severely), Stigmatize, Condemn, Rebuke (also applies to severe criticism), Dissonance (disagreement, opp. genial)
 - Criticize: Excoriate, Lambast (harshly), Arraign (find fault with), Censure, Condemn, Abase (humiliate, lower), Denigrate (criticize unfairly), Deride (insult)
 - Destroy/Eliminate completely: Obliterate, Exterminate, Extirpate, Expunge, Efface, Scotched (decisively put an end to)
 - Passionate/Enthusiastic: Ardent, Fervid/Fervent, Vehement (feeling)
@@ -60,7 +61,6 @@ A list of GRE words I prepared based on some criteria to remember:
 - Unpredictable: Erratic
 - Educational: Didactic, Pedagogic, Erudite (well-educated/informed)
 - Refined: Genteel, Rarefied
-- Short Saying: Maxim, Dictum, Apothegm
 - Unecessary: Redundant, Superfluous
 - Insightful: Percipient/Perceptive, Perspicacious
 - Peculiarity: Idiosyncrasy, Eccentricity, Unorthodox (Unconventional, contrary to what is usual), Freakish (strange)
@@ -114,6 +114,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Extant: In existence
 - Efficaious: Effective
 - Blusquely: Bluntly
+- Meander: Wander
 - Clemency: Mercy
 - Palatable: Acceptable
 - Integrity: Probity
@@ -122,6 +123,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Dishonorable: Ignoble
 - Righteousness: Rectitude 
 - Dispensation: Exemption
+- Approbatory: Showing approval
 - Verisimilitude: Very similar to reality
 
 6) Random:
@@ -134,7 +136,8 @@ A list of GRE words I prepared based on some criteria to remember:
 - Inducing drowsiness: Soporific
 - Largesse: Money/Gifts given generously
 - Eulogy: Praise someone in their rememberance
-- Long, Angry/pompous speech: Harangue, Tirade, Diatribe 
+- Short Saying: Maxim, Dictum, Apothegm
+- Long, Angry/pompous speech: Harangue, Tirade, Diatribe (bitter verbal attack, with possible use of vitriolic language)
 
 7) Relating to:
 - Clothes: Sartorial
