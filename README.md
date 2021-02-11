@@ -53,6 +53,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Make something worse: Exacerbate
 - Support: Bolster, Advocate
 - Object: Demur
+- Hinder: Restrain, Constrain, Impede, Stymie
 - Avoid: Eschew
 - Weaken: Enfeeble, Enervate (sap energy), Incapacitate (prevent from functioning)
 - Blame: Inculpate (opp. Exculpate - prove not guilty), Indict (accuse formally)
@@ -61,6 +62,9 @@ A list of GRE words I prepared based on some criteria to remember:
 - Unpredictable: Erratic
 - Educational: Didactic, Pedagogic, Erudite (well-educated/informed)
 - Refined: Genteel, Rarefied
+- Hasty: Expeditious, Cursory (not detailed due to hastiness)
+- Perfunctory: Done without care/interest
+- Rash: Reckless, Foolhardy
 - Unecessary: Redundant, Superfluous
 - Insightful: Percipient/Perceptive, Perspicacious
 - Peculiarity: Idiosyncrasy, Eccentricity, Unorthodox (Unconventional, contrary to what is usual), Freakish (strange)
@@ -77,7 +81,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Standing out in a negative way: Egregious
 - Separate: Discrete
 - Struggle: Flounder
-- Deny: Repudiate, Gainsay (speak against)
+- Deny: Repudiate, Gainsay, Decry (speak against)
 - Subterfurge: Decieve, Hoax, Hoodwink, Ruse, Chicanery (trickery -> Artifice), Duplicity
 - Lie: Fib, Prevaricate, even Palter and Equivocate (speak vaguely so as to avoid the truth)
 - Defame: Vilify, Calumny 
@@ -108,7 +112,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Occuring at irregular intervals of time: Sporadical
 - Occuring everyday: Quotidian, Commonplace (ordinary)
 - Lasting for an unknown period of time: Indefinite
-- Knowledge of events before time: Prescience, Foresight, Clairvoyance
+- Knowledge of events before time: Prescience, Presentiment, Foresight, Clairvoyance
 
 5) Word flow:
 - Extant: In existence
@@ -133,6 +137,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Complex: Byzantine, Convoluted
 - Discursive: Tangential
 - Cadaverous: Corpse-like
+- Mentally productive: Fecund
 - Inducing drowsiness: Soporific
 - Largesse: Money/Gifts given generously
 - Eulogy: Praise someone in their rememberance
@@ -149,6 +154,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Sycophant: Flatterer
 - Proponent: Supporter
 - Disciplinarian: Maritnet
+- Maverick: Radical thinker
 - Grumpy/Grouch: Curmudgeon
 - Deceiving Cheater: Hustler, Swindler, Con Artist
 - Pedant: One who overemphasizes minor rules/details
