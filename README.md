@@ -60,6 +60,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Shorten: Truncate
 - Exclude: Ostracize
 - Unpredictable: Erratic
+- A liking towards something: Predilection, Penchant, Affinity
 - Educational: Didactic, Pedagogic, Erudite (well-educated/informed)
 - Refined: Genteel, Rarefied
 - Hatred: Antipathy, Loathe, Abhorrence
@@ -171,3 +172,5 @@ A list of GRE words I prepared based on some criteria to remember:
   - Extremely hungry: Ravenous, Voracious
 - Envy: Begrudge
 - Laziness: Sloth, Indolence
+- Lust: Concupiscience, Lechery (offensive)
+- Wrath: Outrage, Fury from ire/spleen/anger
