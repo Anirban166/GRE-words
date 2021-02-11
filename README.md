@@ -36,6 +36,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Being Late: Tardiness (opp. Punctuality)
 - Assigned a lower position: Relegate 
 - Not revealing one's thoughts readily: Reticent
+- Peculiar: Idiosyncratic, Eccentric, Freakish (strange)
 
 3) General:
 - Scold: Upbraid, Chastise, Admonish (warn), Chide (applies to rebuke as well)
@@ -52,6 +53,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Shorten: Truncate
 - Exclude: Ostracize
 - Unpredictable: Erratic
+- Educational: Didactic, Pedagogic
 - Refined: Genteel, Rarefied
 - Short Saying: Maxim, Dictum, Apothegm
 - Insightful: Percipient/Perceptive, Perspicacious
@@ -100,6 +102,7 @@ A list of GRE words I prepared based on some criteria to remember:
 - Knowledge of events before time: Prescience, Foresight, Clairvoyance
 
 5) Word flow:
+- Extant: In existence
 - Efficaious: Effective
 - Blusquely: Bluntly
 - Clemency: Mercy
