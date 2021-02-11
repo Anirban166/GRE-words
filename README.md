@@ -1,4 +1,4 @@
-A list of GRE words I prepared based on some criteria to remember:
+A list of GRE words (packed with synonyms) I prepared based on some criteria to remember:
 
 1) Characteristics:
 - Courageous: Mettlesome, Plucky, Intrepid (fearless, opp. pusillanimous), Audacious (bold, taking risks)
@@ -9,56 +9,67 @@ A list of GRE words I prepared based on some criteria to remember:
 - Rude: Insolent, Impudent/Impertinent (not showing respect)
 - Aggressive: Warlike, Bellicose, Belligerent
 - Intelligent/Clever: Scintillating (brilliant), Astute (accurately assess something)
-- Sarcastic: Caustic, Ironic, Satirical, Sardonic
+- Sarcastic: Caustic, Ironic, Satirical, Sardonic, Acerbic (sharp & forthright/direct + outspoken)
+- Generous: Munificent, Magnanimous (+ forgiving)
 - Wise: Sagacious, Sapient
-- Honest: Aboveboard, Candid
+- Honest: Aboveboard, Veracious, Candid
 - Arrogant/Condescending: Supercilious, Haughty
 - Irritable: Grumpy, Bilious, Crotchety
 - Severe/Strict: Austere, Stern, Dour, Flinty
+- Diligent/Careful: Meticulous, Scrupulous, Fastidious, Conscientious
 - Cheerful: Ebullient, Jaunty, Exuberant, Buoyant (+optimistic/sanguine)
+- Docile: Compliant, Pliant, Submissive, Yielding, Obeyance (opp. Recalcritant)
 
 2) State:
 - Poor: Indigent, Penurious, Destitute, Impecunious, Necessitous (needy)
 - Wealthy: Opulent, Affluent, Lavish (luxurious)
 - Inexperienced: Callow, Fledgeling
-- Versatile: Protean
+- Versatile: Protean, Flexile
 - Regret: Remorse, Contrite
 - Sorrow: Elegiac, Mournful, Doleful
 - Peace: Serenity, Tranquility, Halycon
 - Calmness & Composure: Equanimity
 - Happiness: Euphoria, Bliss, Exultant, Exhilaration, Jubilation, Joviality
 - Harmless: Innocous, Benign (also means generous)
-- Generous: Munificent, Magnanimous (+ forgiving)
-- Docile: Compliant, Pliant, Submissive, Yielding, Obeyance (opp. Recalcritant)
-- Acerbic: Sharp and forthright
 - Respectable: Estimable, Eminent, Illustrious (well-known), Venerable (opp. Derogatory)
-- Likeable: Affable
 - Unable to be calmed: Implacable
-- Being Late: Tardiness (opp. Punctuality)
-- Assigned a lower position: Relegate 
+- Being late: Tardiness (opp. Punctuality)
 - Not revealing one's thoughts readily: Reticent
-- Diligent/Careful: Meticulous, Scrupulous, Fastidious
-- Disorder: Tumult/Tumultous
+- Disorder: Tumult, Turmoil, Disarray, Anarchy
 - Dissapointment: Crestfallen, Sullen, Bereft (sad due to loss)
 
-3) General:
+3) Actions:
 - Scold: Upbraid, Chastise, Vituperate, Inveigh, Admonish (warn), Chide (applies to rebuke as well)
 - Inveigle: Coax/Persuade (opp. dissuade) someone to do something via flattery/blandishments
 - Disapprove: Reprimand, Reproach, Castigate (severely), Stigmatize, Condemn, Rebuke (also applies to severe criticism), Dissonance (disagreement, opp. genial)
 - Criticize: Excoriate, Lambast (harshly), Arraign (find fault with), Censure, Condemn, Abase (humiliate, lower), Denigrate (criticize unfairly), Deride (insult)
-- Destroy/Eliminate completely: Obliterate, Exterminate, Extirpate, Expunge, Efface, Scotched (decisively put an end to)
-- Passionate/Enthusiastic: Ardent, Fervid/Fervent, Vehement (feeling)
-- Make someone less angry: Appease, Placate, Pacify, Mollify (soothe), Conciliate, Bromide (statement intended to sooth)
-- Make something better: Ameliorate, Mitigate (make less severe)
-- Make something worse: Exacerbate
+- Eliminate completely: Obliterate, Exterminate, Extirpate, Expunge, Efface, Scotched (decisively put an end to)
+- Assign a lower position: Relegate 
 - Support: Bolster, Advocate
-- Object: Demur
 - Hinder: Restrain, Constrain, Impede, Stymie
+- Object: Demur
 - Avoid: Eschew
 - Weaken: Enfeeble, Enervate (sap energy), Incapacitate (prevent from functioning)
 - Blame: Inculpate (opp. Exculpate - prove not guilty), Indict (accuse formally)
 - Shorten: Truncate
 - Exclude: Ostracize
+- Make someone less angry: Appease, Placate, Pacify, Mollify (soothe), Conciliate, Bromide (statement intended to soothe)
+- Make something better: Ameliorate, Mitigate (make less severe)
+- Make something worse: Exacerbate
+- Emphasize: Underscore, Accent
+- Confine against will: Incarcerate, Immure
+- Accustom: Attune, Acclimatize, Inure (harden against something by being accustomed)
+- Lionize: Treat like a celebrity
+- Struggle: Flounder
+- Deny: Repudiate, Gainsay, Decry (speak against)
+- Subterfurge: Decieve, Hoax, Hoodwink, Ruse, Chicanery (trickery -> Artifice), Duplicity
+- Lie: Prevaricate, Convey a Fib, to Palter or Equivocate (speak vaguely so as to avoid the truth)
+- Criticize with anger: Revile, Berate, Vilify (defame, with possible calumny)
+- Provoking argument/conflict: Contentious, Controversial, Incendiary
+- Reject: Abnegate, Spurn (reject with contempt or disdain - feeling that someone is unworthy)
+
+4) General:
+- Passionate/Enthusiastic: Ardent, Fervid/Fervent, Vehement (feeling)
 - Unpredictable: Erratic
 - A liking towards something: Predilection, Penchant, Affinity
 - Educational: Didactic, Pedagogic, Erudite (well-educated/informed)
@@ -75,29 +86,17 @@ A list of GRE words I prepared based on some criteria to remember:
 - Scheme: Ploy (clever one), Machinate, Gambit
 - Dull: Humdrum (lacking excitement)
 - Unoriginal: Hackneyed, Trite (dull)
-- Emphasize: Underscore, Accent
-- Confine against will: Incarcerate, Immure
-- Accustomed: Attune, Acclimatize, Inure (harden against something by being accustomed)
 - Run Down: Dilapidated
-- Lionize: Treat like a celebrity
 - Standing out in a negative way: Egregious
 - Separate: Discrete
-- Struggle: Flounder
-- Deny: Repudiate, Gainsay, Decry (speak against)
-- Subterfurge: Decieve, Hoax, Hoodwink, Ruse, Chicanery (trickery -> Artifice), Duplicity
-- Lie: Fib, Prevaricate, even Palter and Equivocate (speak vaguely so as to avoid the truth)
-- Defame: Vilify, Calumny 
-- Emphasize: Underscore
 - Unified as a whole: Cohesion
 - Artifical: Factitious, Feigned (simulated)
 - Silly/Pointless: Fatuous, Inane, Asinine (extremely foolish), Nugatory (useless, futile)
 - Childish: Puerile, Infantile
 - Lacking intelligence: Vacuous
-- Provoking argument/conflict: Contentious, Controversial, Incendiary
 - Reluctant/Unwilling: Loath
 - Disgust: Detest, Loathe, Hatred, Abhor
 - Quixotic: Unrealistic, Impractical
-- Reject: Abnegate, Spurn (reject with contempt or disdain - feeling that someone is unworthy)
 - Hard to comprehend: Recondite
 - Excessively concerned with minor details: Pedantic
 - Giving a false representation: Disingenuous
