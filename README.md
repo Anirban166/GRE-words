@@ -105,7 +105,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Acting without care: Prudent, Impetous
 - Abundant/Present in Large Quantity: Prolific, Copious
 
-4) Time related:
+5) Time related:
 - Ancient: Primitive, Hoary
 - Belonging to another time/era: Anachronism (chronos: time)
 - Short-lived/Temporary: Ephemeral, Transitory/Transient
@@ -115,7 +115,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Lasting for an unknown period of time: Indefinite
 - Knowledge of events before time: Prescience, Presentiment, Foresight, Clairvoyance
 
-5) Word flow:
+6) Word flow:
 - Extant: In existence
 - Efficaious: Effective
 - Blusquely: Bluntly
@@ -131,7 +131,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Approbatory: Showing approval
 - Verisimilitude: Very similar to reality
 
-6) Random:
+7) Random:
 - Enigma: Mysterious (difficult to interpret)
 - Understood by a few (analogous to mysterious): Arcane, Esoteric
 - Luck: Serendipity, Providential
@@ -143,15 +143,16 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Largesse: Money/Gifts given generously
 - Eulogy: Praise someone in their rememberance
 - Short Saying: Maxim, Dictum, Apothegm
+- Unpleasant/Embarrasing/Confusing situation: Predicament, Imbroglio, Quandary (state of perplexed uncertainity)
 - Long, Angry/pompous speech: Harangue, Tirade, Diatribe (bitter verbal attack, with possible use of vitriolic language)
 
-7) Relating to:
+8) Relating to:
 - Clothes: Sartorial
 - Beauty: Aesthetics
 - Words/Vocabulary: Lexical
 - Logic in a language: Semantics (yes, compiler design)
 
-8) Person:
+9) Type of person:
 - Raconteur: Storyteller
 - Mendicant: Beggar
 - Sycophant: Flatterer
@@ -166,7 +167,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Misanthropist: One who dislikes humankind & avoids human society
 - Vassal: A holder of land by feudal tenure on conditions of homage and allegiance
 
-9) Sins: 
+10) Sins: 
 - Pride: Hauteur & Vanity (both extreme)
 - Greed: Avarice & Cupidity (both excessive)
 - Gluttony
@@ -174,4 +175,4 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Envy: Begrudge
 - Laziness: Sloth, Indolence
 - Lust: Concupiscience, Lechery (offensive)
-- Wrath: Outrage, Fury, Destruction from ire/spleen/anger
+- Wrath: Outrage, Fury, Destruction induced by ire/spleen/anger
