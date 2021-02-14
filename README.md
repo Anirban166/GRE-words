@@ -99,6 +99,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Separate: Discrete
 - Obvious: Patent, Manifest, Axiomatic (self-evident)
 - Unified as a whole: Cohesion
+- Incompatible: Irreconcilable, Antithetical, Incongruous, Discordant
 - Artifical: Factitious, Feigned (simulated)
 - Slow to learn: Obtuse
 - Silly/Pointless: Fatuous, Inane, Asinine (extremely foolish), Nugatory (useless, futile)
@@ -180,6 +181,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Deceiving Cheater: Hustler, Swindler, Con Artist
 - Pedant: One who overemphasizes minor rules/details
 - Prodigy: Unusual/Extraordinary person (also applies to an event)
+- Luminary: One who inspires/influences others
 - Philistine: One who is hostile/indifferent to culture
 - Misanthropist: One who dislikes humankind & avoids human society
 - Vassal: A holder of land by feudal tenure on conditions of homage and allegiance
