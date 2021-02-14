@@ -91,6 +91,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Immoral behaviour: Vice, Iniquity, Depraved, Reprobate
 - Full of danger/uncertainity: Parlous, Precarious, Perilous
 - Separate: Discrete
+- Obvious: Patent, Manifest, Axiomatic (self-evident)
 - Unified as a whole: Cohesion
 - Artifical: Factitious, Feigned (simulated)
 - Slow to learn: Obtuse
@@ -152,6 +153,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Largesse: Money/Gifts given generously
 - Eulogy: Praise someone in their rememberance
 - Short Saying: Maxim, Dictum, Apothegm
+- Exaggerated/Embellished/Embroidered statement: Hyperbole, Puffery (praise)
 - Unpleasant/Embarrasing/Confusing situation: Predicament, Imbroglio, Quandary (state of perplexed uncertainity)
 - Long, Angry/pompous speech: Harangue, Tirade, Diatribe (bitter verbal attack, with possible use of vitriolic language)
 
