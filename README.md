@@ -29,7 +29,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Versatile: Protean, Flexile
 - Regret: Remorse, Contrite
 - Sorrow: Elegiac, Mournful, Doleful
-- Peace: Serenity, Tranquility, Halycon
+- Peace: Serenity, Tranquility, Halycon, Pacific
 - Calmness & Composure: Equanimity
 - Happiness: Euphoria, Bliss, Exultant, Exhilaration, Jubilation, Joviality
 - Harmless: Innocous, Benign (also means generous)
@@ -90,6 +90,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Unoriginal: Hackneyed, Trite (dull)
 - Run Down: Dilapidated
 - Standing out in a negative way: Egregious
+- Full of danger/uncertainity: Parlous, Precarious, Perilous
 - Separate: Discrete
 - Unified as a whole: Cohesion
 - Artifical: Factitious, Feigned (simulated)
