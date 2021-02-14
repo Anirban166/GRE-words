@@ -24,7 +24,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 
 2) State:
 - Poor: Indigent, Penurious, Destitute, Impecunious, Necessitous (needy)
-- Wealthy: Opulent, Affluent, Lavish (luxurious)
+- Wealthy: Opulent, Affluent, Lavish (luxurious), Well heeled
 - Inexperienced: Naive, Callow, Fledgeling, Verdant
 - Versatile: Protean, Flexile
 - Regret: Remorse, Contrite
@@ -86,10 +86,9 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Admiration: Infatuated (short-lived, but intense), Besotted, Enamour
 - Harmful: Detrimental, Deleterious, Precarious (Dangerous), Inimical (tending to obstruct/harm)
 - Scheme: Ploy (clever one), Machinate, Gambit
-- Dull: Humdrum (lacking excitement)
-- Unoriginal: Hackneyed, Trite (dull)
-- Run Down: Dilapidated
+- Run Down: Dilapidated, Squalid
 - Standing out in a negative way: Egregious
+- Immoral behaviour: Vice, Iniquity, Depraved, Reprobate
 - Full of danger/uncertainity: Parlous, Precarious, Perilous
 - Separate: Discrete
 - Unified as a whole: Cohesion
@@ -108,12 +107,16 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Refuse to change own's opinion: Dogmatic (highly opinionated), Obdurate (Stubborn)
 - Acting without care: Imprudent, Impetous
 - Abundant/Present in Large Quantity: Prolific, Copious
+- A small quantity of something: Modicum, Smidgen, Soupcon
+- Excessive indulgence in pleasure: Hedonism, Debauchery, Dissipation
+- Dull/Uninteresting: Insipid (+flavorless), Humdrum (monotonous), Lacklustre, Vapid, Jejune 
+- Dull/Unoriginal: Banal, Trite, Hackneyed, Hacky, Prosaic
 
 5) Time related:
 - Ancient: Primitive, Hoary
 - Belonging to another time/era: Anachronism (chronos: time)
 - Short-lived/Temporary: Ephemeral, Transitory/Transient
-- Long-lasting/Permanent: Abiding, Peri, Enduring, Perennial
+- Long-lasting/Permanent: Abiding, Enduring, Perennial, Perpetuity
 - Occuring at irregular intervals of time: Sporadical
 - Occuring everyday: Quotidian, Commonplace (ordinary)
 - Lasting for an unknown period of time: Indefinite
