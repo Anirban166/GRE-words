@@ -66,7 +66,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Deny: Repudiate, Gainsay, Decry (speak against)
 - Subterfurge: Decieve, Hoax, Hoodwink, Ruse, Chicanery (trickery -> Artifice), Duplicity
 - Lie: Prevaricate, Convey a Fib, to Palter or Equivocate (speak vaguely so as to avoid the truth)
-- Criticize with anger: Revile, Berate, Vilify (defame, with possible calumny)
+- Criticize with anger: Revile, Berate, Vilify (defame, with possible calumny/obloquies/slander)
 - Provoking argument/conflict: Contentious, Controversial, Incendiary
 - Reject: Abnegate, Spurn (reject with contempt or disdain - feeling that someone is unworthy)
 
@@ -101,11 +101,11 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Quixotic: Unrealistic, Impractical
 - Hard to comprehend: Recondite
 - Easy to understand: Lucid, Perspicuous
-- Excessively concerned with minor details: Pedantic
+- Excessively concerned with minor details: Pedantic, Pedantry
 - Giving a false representation: Disingenuous
 - Describe/Display precisely: Delineate
 - Refuse to change own's opinion: Dogmatic (highly opinionated), Obdurate (Stubborn)
-- Acting without care: Prudent, Impetous
+- Acting without care: Imprudent, Impetous
 - Abundant/Present in Large Quantity: Prolific, Copious
 
 5) Time related:
