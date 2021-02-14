@@ -8,7 +8,8 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Annoying: Nettlesome, Fractious, Irksome, Peevish, or to irk/peeve/rile (annoy)
 - Rude: Insolent, Impudent/Impertinent (not showing respect)
 - Aggressive: Warlike, Bellicose, Belligerent
-- Intelligent/Clever: Scintillating (brilliant), Astute (accurately assess something)
+- Intelligent/Clever: Scintillating (brilliant), Shrewd, Astute (accurately assess something)
+- Stupid: Doltish, Bovine, Glaikit
 - Sarcastic: Caustic, Ironic, Satirical, Sardonic, Acerbic (sharp & forthright/direct + outspoken)
 - Generous: Munificent, Magnanimous (+ forgiving)
 - Wise: Sagacious, Sapient
@@ -74,7 +75,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - A liking towards something: Predilection, Penchant, Affinity
 - Educational: Didactic, Pedagogic, Erudite (well-educated/informed)
 - Refined: Genteel, Rarefied
-- Hatred: Antipathy, Loathe, Abhorrence
+- Hatred: Antipathy, Loathe, Abhorrence, Detestation, Animostiy (strong hostility)
 - Hasty: Expeditious, Cursory (not detailed due to hastiness)
 - Perfunctory: Done without care/interest
 - Rash: Reckless, Foolhardy
@@ -91,13 +92,14 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Separate: Discrete
 - Unified as a whole: Cohesion
 - Artifical: Factitious, Feigned (simulated)
+- Slow to learn: Obtuse
 - Silly/Pointless: Fatuous, Inane, Asinine (extremely foolish), Nugatory (useless, futile)
 - Childish: Puerile, Infantile
 - Lacking intelligence: Vacuous
 - Reluctant/Unwilling: Loath
-- Disgust: Detest, Loathe, Hatred, Abhor
 - Quixotic: Unrealistic, Impractical
 - Hard to comprehend: Recondite
+- Easy to understand: Lucid, Perspicuous
 - Excessively concerned with minor details: Pedantic
 - Giving a false representation: Disingenuous
 - Describe/Display precisely: Delineate
