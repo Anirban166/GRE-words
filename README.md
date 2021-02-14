@@ -30,7 +30,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Regret: Remorse, Contrite
 - Sorrow: Elegiac, Mournful, Doleful
 - Peace: Serenity, Tranquility, Halycon, Pacific
-- Calmness & Composure: Equanimity
+- Calmness & Composure under strain: Equanimity, Aplomb, Sangfroid
 - Happiness: Euphoria, Bliss, Exultant, Exhilaration, Jubilation, Joviality
 - Harmless: Innocous, Benign (also means generous)
 - Respectable: Estimable, Eminent, Illustrious (well-known), Venerable (opp. Derogatory)
@@ -45,7 +45,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Inveigle: Coax/Persuade (opp. dissuade) someone to do something via flattery/blandishments
 - Disapprove: Reprimand, Reproach, Castigate (severely), Stigmatize, Condemn, Rebuke (also applies to severe criticism), Dissonance (disagreement, opp. genial)
 - Criticize: Excoriate, Lambast (harshly), Arraign (find fault with), Censure, Condemn, Abase (humiliate, lower), Denigrate (criticize unfairly), Deride (insult)
-- Eliminate completely: Obliterate, Exterminate, Extirpate, Expunge, Efface, Scotched (decisively put an end to)
+- Destroy/Eliminate: Obliterate, Exterminate, Extirpate, Expunge, Efface, Scotched (decisively put an end to)
 - Assign a lower position: Relegate 
 - Support: Bolster, Advocate
 - Hinder: Restrain, Constrain, Impede, Stymie
@@ -72,7 +72,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 
 4) General:
 - Passionate/Enthusiastic: Ardent, Fervid/Fervent, Vehement (feeling)
-- Unpredictable: Erratic
+- Unpredictable: Erratic, Capricious, Mercurial, Temperamental (mood), Volatile (emotion), Whimsical
 - A liking towards something: Predilection, Penchant, Affinity
 - Educational: Didactic, Pedagogic, Erudite (well-educated/informed)
 - Refined: Genteel, Rarefied
