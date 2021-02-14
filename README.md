@@ -33,7 +33,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Sorrow: Elegiac, Mournful, Doleful
 - Peace: Serenity, Tranquility, Halycon, Pacific
 - Calmness & Composure under strain: Equanimity, Aplomb, Sangfroid
-- Happiness: Euphoria, Bliss, Exultant, Exhilaration, Jubilation, Joviality
+- Happiness: Euphoria, Bliss, Exultant, Exhilaration, Jubilation, Joviality, Mirth
 - Harmless: Innocous, Benign (also means generous)
 - Respectable: Estimable, Eminent, Illustrious (well-known), Venerable (opp. Derogatory)
 - Unable to be calmed: Implacable
@@ -114,7 +114,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Describe/Display precisely: Delineate
 - Refuse to change own's opinion: Dogmatic (highly opinionated), Obdurate (Stubborn)
 - Acting without care: Imprudent, Impetous
-- Abundant/Present in Large Quantity: Prolific, Copious
+- Abundant/Present in Large Quantity: Prolific, Copious, Myriad, Plethora
 - A small quantity of something: Modicum, Smidgen, Soupcon
 - Excessive indulgence in pleasure: Hedonism, Debauchery, Dissipation
 - Dull/Uninteresting: Insipid (+flavorless), Humdrum (monotonous), Lacklustre, Vapid, Jejune 
@@ -160,6 +160,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Largesse: Money/Gifts given generously
 - Eulogy: Praise someone in their rememberance
 - Short Saying: Maxim, Dictum, Apothegm
+- Clever statement: Witticism, Quip
 - Exaggerated/Embellished/Embroidered statement: Hyperbole, Puffery (praise)
 - Unpleasant/Embarrasing/Confusing situation: Predicament, Imbroglio, Quandary (state of perplexed uncertainity)
 - Long, Angry/pompous speech: Harangue, Tirade, Diatribe (bitter verbal attack, with possible use of vitriolic language)
