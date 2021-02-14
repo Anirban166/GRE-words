@@ -29,10 +29,10 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Wealthy: Opulent, Affluent, Lavish (luxurious), Well heeled
 - Inexperienced: Naive, Callow, Fledgeling, Verdant
 - Versatile: Protean, Flexile
-- Regret: Remorse, Contrite
+- Regret: Remorse, Penitent, Contrite
 - Sorrow: Elegiac, Mournful, Doleful
 - Peace: Serenity, Tranquility, Halycon, Pacific
-- Calmness & Composure under strain: Equanimity, Aplomb, Sangfroid
+- Calmness & Composure under strain: Equanimity, Aplomb, Sangfroid, Phlegmatic, Unflappable
 - Happiness: Euphoria, Bliss, Exultant, Exhilaration, Jubilation, Joviality, Mirth
 - Harmless: Innocous, Benign (also means generous)
 - Respectable: Estimable, Eminent, Illustrious (well-known), Venerable (opp. Derogatory)
@@ -49,7 +49,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Criticize: Excoriate, Lambast (harshly), Arraign (find fault with), Censure, Condemn, Abase (humiliate, lower), Denigrate (criticize unfairly), Deride (insult)
 - Destroy/Eliminate: Obliterate, Exterminate, Extirpate, Expunge, Efface, Scotched (decisively put an end to)
 - Assign a lower position: Relegate 
-- Support: Bolster, Advocate
+- Support: Bolster, Advocate, Buttress
 - Hinder: Restrain, Constrain, Impede, Stymie
 - Surpise/Astonish: Flabbergast, Bedazzle, Confound, Nonplus
 - Excite/Inspire: Galvanize
