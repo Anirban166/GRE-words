@@ -21,6 +21,8 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Cheerful: Ebullient, Jaunty, Exuberant, Buoyant (+optimistic/sanguine)
 - Docile: Compliant, Pliant, Submissive, Yielding, Obeyance (opp. Recalcritant)
 - Friendly: Amiable, Amicable, Chummy, Convivial (+lively), Congenial (liked on account of having qualities similar to oneself)
+- Clumsy: Inept, Maladroit, Cloddish, Blundering, Ham-fisted/handed
+- Skilful: Deft, Adroit, Habile, Dexterous, Artful, Nifty
 
 2) State:
 - Poor: Indigent, Penurious, Destitute, Impecunious, Necessitous (needy)
@@ -81,6 +83,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Perfunctory: Done without care/interest
 - Rash: Reckless, Foolhardy
 - Unecessary: Redundant, Superfluous
+- Ability to make good judgements: Acumen, Discernment, Shrewdness
 - Insightful: Percipient/Perceptive, Perspicacious
 - Peculiarity: Idiosyncrasy, Eccentricity, Unorthodox (Unconventional, contrary to what is usual), Freakish (strange)
 - Admiration: Infatuated (short-lived, but intense), Besotted, Enamour
