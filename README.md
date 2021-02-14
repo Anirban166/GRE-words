@@ -111,6 +111,8 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Excessive indulgence in pleasure: Hedonism, Debauchery, Dissipation
 - Dull/Uninteresting: Insipid (+flavorless), Humdrum (monotonous), Lacklustre, Vapid, Jejune 
 - Dull/Unoriginal: Banal, Trite, Hackneyed, Hacky, Prosaic
+- Lacking interest/concern: Apathetic, Indifferent, Pococurante
+- Lacking enthusiasm: Lackadaisical, Listless, Lukewarm
 
 5) Time related:
 - Ancient: Primitive, Hoary
@@ -164,7 +166,7 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Mendicant: Beggar
 - Sycophant: Flatterer
 - Proponent: Supporter
-- Disciplinarian: Maritnet
+- Disciplinarian: Martinet
 - Maverick: Radical thinker
 - Grumpy/Grouch: Curmudgeon
 - Deceiving Cheater: Hustler, Swindler, Con Artist
