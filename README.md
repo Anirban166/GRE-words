@@ -51,6 +51,9 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Assign a lower position: Relegate 
 - Support: Bolster, Advocate
 - Hinder: Restrain, Constrain, Impede, Stymie
+- Surpise/Astonish: Flabbergast, Bedazzle, Confound, Nonplus
+- Excite/Inspire: Galvanize
+- Conceal/Disguise: Dissemble, Obscure, Enshroud, Privy 
 - Object: Demur
 - Avoid: Eschew
 - Weaken: Enfeeble, Enervate (sap energy), Incapacitate (prevent from functioning)
@@ -63,8 +66,8 @@ A list of GRE words (packed with synonyms) I prepared based on some criteria to 
 - Emphasize: Underscore, Accent
 - Confine against will: Incarcerate, Immure
 - Accustom: Attune, Acclimatize, Inure (harden against something by being accustomed)
-- Lionize: Treat like a celebrity
-- Struggle: Flounder
+- Treat like a celebrity: Lionize
+- Struggle: Flounder, Flail
 - Deny: Repudiate, Gainsay, Decry (speak against)
 - Subterfurge: Decieve, Hoax, Hoodwink, Ruse, Chicanery (trickery -> Artifice), Duplicity
 - Lie: Prevaricate, Convey a Fib, to Palter or Equivocate (speak vaguely so as to avoid the truth)
